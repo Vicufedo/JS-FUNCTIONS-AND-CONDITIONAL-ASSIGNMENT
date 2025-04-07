@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.all{
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-top: 1.7%;
+    background-color: rgb(122, 118, 118);
+    padding: 1.5%;
+    border-radius: 3%;
+}
+
+.all button{
+    padding: 1.5%;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(16, 152, 66);
+}
+
+.all button:hover{
+    background-color:#ffffffd4;
+}
+
+.all input{
+    padding: 1%;
+    border-radius:10px;
+    border: none;
+}
+
+.all div{
+    color: white;
+    font-size: 15px;
+}
