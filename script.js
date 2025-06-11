@@ -34,6 +34,7 @@ function checkTemperature(){
     }
 }
 
+//8
 function checkBmi(){
     var weight = parseFloat(weightTwo.value);    
     var height = parseFloat(heightTwo.value);    
